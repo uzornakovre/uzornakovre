@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👨‍💻 Konstantin Filyaev 
+___
+*👨‍🎓 Student of the Yandex Practicum course "Web-Developer"* 
 
 <!--
 **uzornakovre/uzornakovre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
