@@ -2,7 +2,7 @@
 ___
 *👨‍🎓 Student of the Yandex Practicum course "Web-Developer"*  
 
-![codewars badge](https://www.codewars.com/users/uzornakovre/badges/small) ![GitHub User's stars](https://img.shields.io/github/stars/uzornakovre?style=flat-square)
+![codewars badge](https://www.codewars.com/users/uzornakovre/badges/small) ![GitHub User's stars](https://img.shields.io/github/stars/uzornakovre?style=social)
 
 <!--
 **uzornakovre/uzornakovre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
