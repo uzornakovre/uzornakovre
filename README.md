@@ -13,7 +13,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzornakovre&show_icons=true&theme=dark)](https://github.com/uzornakovre/github-readme-stats)  
 
 <h2 align="left">My thoughts</h2>  
-Coding is an art. A programming language is a tool, just like a piano for a musician, or a brush for an artist. I plan to create works of art using code that will look nice and understandable, and most importantly - benefit people!
+Coding is an art. A programming language is a tool, just like a piano for a musician, or a brush for an artist. My plan is to create works of art using code that will look nice and understandable, and most importantly - benefit people!
 
 <!--
 **uzornakovre/uzornakovre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
