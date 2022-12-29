@@ -13,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="30" alt="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20" alt="CSS">
-  <img src="https://www.markupeasy.ru/resources/icon/apple-touch-icon.png" width="30" alt="CSS">
+  <img src="https://www.shareicon.net/data/128x128/2015/10/06/113547_planet_512x512.png" width="33" alt="CSS">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="32">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="35" alt="Git">
 </div>
