@@ -4,16 +4,30 @@
 <p align="center"><img src="https://www.codewars.com/users/uzornakovre/badges/small"></p>  
 
 
-<h2 align="left">Stack</h2>  
+<h2 align="center">Stack</h2>  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png?20170517184425" align="left" width="26" alt="HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png" align="left" width="19" alt="CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png?20120221235433" align="left" width="26" alt="JS"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" align="left" width="17" alt="CSS"><img src="https://www.markupeasy.ru/resources/icon/apple-touch-icon.png" align="left" width="26" alt="CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="27" align="left"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" align="left" width="38" alt="Git"></br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"  width="30" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" width="35" alt="CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"  width="30" alt="JS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width="30" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg" width="30" alt="nodejs">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="20" alt="CSS">
+  <img src="https://www.markupeasy.ru/resources/icon/apple-touch-icon.png" width="30" alt="CSS">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" width="32">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width="35" alt="Git">
+</div>
 
-<h2 align="left">Stats</h2>   
+<h2 align="center">Stats</h2>   
+<div align="center">
+            
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzornakovre&show_icons=true&theme=dark)](https://github.com/uzornakovre/github-readme-stats)
+            
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzornakovre&show_icons=true&theme=dark)](https://github.com/uzornakovre/github-readme-stats)  
+<h2 align="center">My thoughts</h2> 
 
-<h2 align="left">My thoughts</h2>  
-Coding is an art. A programming language is a tool, just like a piano for a musician, or a brush for an artist. I plan to create works of art using code that will look nice and understandable, and most importantly - benefit people!
+<p align="center">Coding is an art. A programming language is a tool, just like a piano for a musician, or a brush for an artist. I plan to create works of art using code that will look nice and understandable, and most importantly - benefit people!</p>
 
 <!--
 **uzornakovre/uzornakovre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
