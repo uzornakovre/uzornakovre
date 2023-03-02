@@ -21,7 +21,10 @@
 <h2 align="center">Stats</h2>   
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzornakovre&theme=tokyonight" alt="mystreak"/>      
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzornakovre&theme=tokyonight&langs_count=8" height="195"/>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uzornakovre&theme=tokyonight" alt="mystreak"/>
+
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzornakovre&show_icons=true&theme=dark)](https://github.com/uzornakovre/github-readme-stats)
             
