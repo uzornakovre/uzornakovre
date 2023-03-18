@@ -20,10 +20,9 @@
 
 <h2 align="center">Stats</h2>   
 <div align="center">
-<img width="465" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzornakovre&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="uzornakovre" />
+<img width="338" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzornakovre&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="uzornakovre" />
 
-<br>
-<img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=uzornakovre&theme=tokyonight" alt="mystreak"/>
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=uzornakovre&theme=tokyonight" alt="mystreak"/>
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzornakovre&show_icons=true&theme=tokyonight)](https://github.com/uzornakovre/github-readme-stats)
