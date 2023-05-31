@@ -1,5 +1,5 @@
 <h1 align="center">👨‍💻 Konstantin Filyaev</h1>
-<p align="center">👨‍🎓 <i>Student of the Yandex Practicum course "Web-Developer"</i></p>  
+<p align="center"><i>Web-Developer</i></p>  
 
 <p align="center"><img src="https://www.codewars.com/users/uzornakovre/badges/small"></p>  
 
